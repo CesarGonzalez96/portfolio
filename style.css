@@ -88,3 +88,8 @@ Projects
 #projects .card img {
   width: 100%;
 }
+
+#projects .card-title {
+  font-size: 28px;
+  font-weight: bold;
+}
