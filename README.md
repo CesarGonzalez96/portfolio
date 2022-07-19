@@ -1,6 +1,6 @@
 # Portfolio
 This is my portfolio project using HTML/CSS and Bootstrap. I will be using this to show case my project!
-[live Heroku Deployment]
+[live Heroku Deployment](https://portfolio-cesarigonzalez.herokuapp.com/)
 
 
 ## Technologies Used
